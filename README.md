@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0a1930,50:12305c,100:1d4ed8&height=210&section=header&text=Yannis%20Duvignau&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=Cybersecurity%20GRC%20%C2%B7%20Accreditation&descAlignY=60&descSize=16&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1930,50:12305c,100:1d4ed8&height=200&section=header&text=Yannis%20Duvignau&fontColor=ffffff&fontSize=44&fontAlignY=42&desc=Cybersecurity%20GRC%20%C2%B7%20Accreditation&descAlignY=64&descSize=17&animation=fadeIn" width="100%" />
 
 <a href="https://github.com/yannisduvignau">
   <img src="https://readme-typing-svg.demolab.com/?lines=Governance%2C+Risk+%26+Compliance;Security+accreditation;Risk+analysis+%26+audit;Dev+background%2C+compliance+focus&font=Fira%20Code&weight=600&color=1D4ED8&size=23&center=true&vCenter=true&width=560&height=45&pause=900" alt="Focus areas" />
@@ -250,4 +250,4 @@ Pre-configured templates and setup scripts to deploy the Glance dashboard on Pro
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1d4ed8,50:12305c,100:0a1930&height=130&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1d4ed8,50:12305c,100:0a1930&height=80&section=footer" width="100%" />
