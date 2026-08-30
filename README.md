@@ -28,34 +28,28 @@ Frameworks make more sense when you've built the systems they apply to.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1930,50:1d4ed8,100:0a1930&height=4&section=header" width="100%" />
 
-## &nbsp;🛡️&nbsp; Focus
+## Focus
 
 > **Governance, Risk & Compliance** — security accreditation, risk analysis, and the paperwork that decides whether a system is allowed to run.
 
 <table>
 <tr>
-<td width="33%" valign="top" align="center">
+<td width="33%" valign="top">
 
-### 📋
-**Governance**
-
-Policies, control frameworks, and the documentation that makes a security posture auditable.
+**Governance**<br>
+<sub>Policies, control frameworks, and the documentation that makes a security posture auditable.</sub>
 
 </td>
-<td width="33%" valign="top" align="center">
+<td width="33%" valign="top">
 
-### ⚖️
-**Risk**
-
-Threat modelling, risk analysis, and deciding what actually deserves a mitigation.
+**Risk**<br>
+<sub>Threat modelling, risk analysis, and deciding what actually deserves a mitigation.</sub>
 
 </td>
-<td width="33%" valign="top" align="center">
+<td width="33%" valign="top">
 
-### ✅
-**Compliance**
-
-Accreditation files, audit evidence, and mapping controls to systems that really run.
+**Compliance**<br>
+<sub>Accreditation files, audit evidence, and mapping controls to systems that really run.</sub>
 
 </td>
 </tr>
@@ -65,7 +59,7 @@ Coming from a hands-on background: before assessing controls, I spent my time de
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1930,50:1d4ed8,100:0a1930&height=4&section=header" width="100%" />
 
-## &nbsp;🔍&nbsp; Security & offensive work
+## Security & offensive work
 
 <table>
 <tr>
@@ -144,13 +138,13 @@ Discord bot monitoring and delivering cybersecurity news from trusted sources �
 | [s3check](https://github.com/yannisduvignau/s3check) | `Python` | Config verification for S3-compatible object storage |
 | [auth-fastapi](https://github.com/yannisduvignau/auth-fastapi) | `FastAPI` | Hands-on authentication & authorization patterns |
 
-> ⚠️ Offensive tooling is published for **educational purposes and authorized testing only**.
+<sub>Offensive tooling is published for <b>educational purposes and authorized testing only</b>.</sub>
 
 </details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1930,50:1d4ed8,100:0a1930&height=4&section=header" width="100%" />
 
-## &nbsp;⚙️&nbsp; Technical background
+## Technical background
 
 <div align="center">
 
@@ -170,7 +164,7 @@ Discord bot monitoring and delivering cybersecurity news from trusted sources �
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1930,50:1d4ed8,100:0a1930&height=4&section=header" width="100%" />
 
-## &nbsp;🔧&nbsp; Infrastructure & engineering
+## Infrastructure & engineering
 
 <table>
 <tr>
@@ -217,7 +211,7 @@ Pre-configured templates and setup scripts to deploy the Glance dashboard on Pro
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1930,50:1d4ed8,100:0a1930&height=4&section=header" width="100%" />
 
-## &nbsp;📊&nbsp; Activity
+## Activity
 
 <div align="center">
 
@@ -240,9 +234,7 @@ Pre-configured templates and setup scripts to deploy the Glance dashboard on Pro
 
 <div align="center">
 
-### 💬 &nbsp;Open to
-
-**Alternance · GRC & accreditation** &nbsp;·&nbsp; **Security discussions** &nbsp;·&nbsp; **CTF teams**
+**Open to** &nbsp;·&nbsp; alternance in GRC & accreditation &nbsp;·&nbsp; security discussions &nbsp;·&nbsp; CTF teams
 
 <br>
 
