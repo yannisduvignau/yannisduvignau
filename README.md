@@ -2,6 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1930,50:12305c,100:1d4ed8&height=200&section=header&text=Yannis%20Duvignau&fontColor=ffffff&fontSize=44&fontAlignY=34&desc=Cybersecurity%20GRC%20%C2%B7%20Accreditation&descAlignY=54&descSize=17&animation=fadeIn" width="100%" />
 
+<a href="https://github.com/yannisduvignau">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Governance%2C+Risk+%26+Compliance;Security+accreditation;Risk+analysis+%26+audit;Dev+background%2C+compliance+focus&font=Fira%20Code&weight=600&color=1D4ED8&size=23&center=true&vCenter=true&width=560&height=45&pause=900" alt="Focus areas" />
+</a>
+
 <br>
 
 ![Role](https://img.shields.io/badge/Cybersecurity_GRC_%26_Accreditation-0a1930?style=for-the-badge&labelColor=0a1930)
@@ -22,78 +26,83 @@ Frameworks make more sense when you've built the systems they apply to.
 
 </div>
 
-<br>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0a1930,100:1d4ed8&height=3&section=header)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1930,50:1d4ed8,100:0a1930&height=4&section=header" width="100%" />
 
 ## &nbsp;🛡️&nbsp; Focus
 
 > **Governance, Risk & Compliance** — security accreditation, risk analysis, and the paperwork that decides whether a system is allowed to run.
 
-<div align="center">
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
 
-![Risk analysis](https://img.shields.io/badge/Risk_analysis-0a1930?style=flat-square&labelColor=0a1930)
-![Security accreditation](https://img.shields.io/badge/Security_accreditation-12305c?style=flat-square&labelColor=12305c)
-![Compliance frameworks](https://img.shields.io/badge/Compliance_frameworks-1e40af?style=flat-square&labelColor=1e40af)
-![Audit](https://img.shields.io/badge/Audit_%26_documentation-1d4ed8?style=flat-square&labelColor=1d4ed8)
-![Architecture review](https://img.shields.io/badge/Secure_architecture_review-2563eb?style=flat-square&labelColor=2563eb)
+### 📋
+**Governance**
 
-</div>
+Policies, control frameworks, and the documentation that makes a security posture auditable.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### ⚖️
+**Risk**
+
+Threat modelling, risk analysis, and deciding what actually deserves a mitigation.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### ✅
+**Compliance**
+
+Accreditation files, audit evidence, and mapping controls to systems that really run.
+
+</td>
+</tr>
+</table>
 
 Coming from a hands-on background: before assessing controls, I spent my time deploying infrastructure, writing backend services, and reproducing CVEs. That's the part of GRC I care about — compliance that maps to something real.
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1930,50:1d4ed8,100:0a1930&height=4&section=header" width="100%" />
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0a1930,100:1d4ed8&height=3&section=header)
-
-## &nbsp;⚙️&nbsp; Technical background
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-0a1930?style=for-the-badge&logo=python&logoColor=ffffff)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a1930?style=for-the-badge&logo=typescript&logoColor=ffffff)
-![Java](https://img.shields.io/badge/Java-0a1930?style=for-the-badge&logo=openjdk&logoColor=ffffff)
-![C++](https://img.shields.io/badge/C++-0a1930?style=for-the-badge&logo=cplusplus&logoColor=ffffff)
-![Ruby](https://img.shields.io/badge/Ruby-0a1930?style=for-the-badge&logo=ruby&logoColor=ffffff)
-![PHP](https://img.shields.io/badge/PHP-0a1930?style=for-the-badge&logo=php&logoColor=ffffff)
-
-**Infrastructure**
-
-![Docker](https://img.shields.io/badge/Docker-12305c?style=for-the-badge&logo=docker&logoColor=ffffff)
-![Ansible](https://img.shields.io/badge/Ansible-12305c?style=for-the-badge&logo=ansible&logoColor=ffffff)
-![Terraform](https://img.shields.io/badge/Terraform-12305c?style=for-the-badge&logo=terraform&logoColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-12305c?style=for-the-badge&logo=postgresql&logoColor=ffffff)
-![Proxmox](https://img.shields.io/badge/Proxmox-12305c?style=for-the-badge&logo=proxmox&logoColor=ffffff)
-![Linux](https://img.shields.io/badge/Linux-12305c?style=for-the-badge&logo=linux&logoColor=ffffff)
-
-</div>
-
-<br>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0a1930,100:1d4ed8&height=3&section=header)
-
-## &nbsp;🔍&nbsp; Security work
+## &nbsp;🔍&nbsp; Security & offensive work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
+### [fcsc-2025](https://github.com/yannisduvignau/fcsc-2025)
+![CTF](https://img.shields.io/badge/CTF-1d4ed8?style=flat-square)
+![Python](https://img.shields.io/badge/Python-0a1930?style=flat-square)
+
+**France Cybersecurity Challenge 2025** — solutions and writeups across `crypto` · `pwn` · `reverse` · `web` · `hardware` · `misc`.
+
+</td>
+<td width="50%" valign="top">
+
 ### [react2shell-exploit](https://github.com/yannisduvignau/react2shell-exploit)
+![CVE](https://img.shields.io/badge/CVE--2025--55182-1d4ed8?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a1930?style=flat-square)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0a1930?style=flat-square&logoColor=ffffff)
-![Vuln research](https://img.shields.io/badge/Vulnerability_research-1d4ed8?style=flat-square)
+Proof-of-concept for **React2Shell** — RCE in Next.js apps using React Server Components and Server Actions.
 
-Proof-of-concept for **CVE-2025-55182** — RCE in Next.js applications using React Server Components and Server Actions.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [my-vuln-shop](https://github.com/yannisduvignau/my-vuln-shop)
+![AppSec](https://img.shields.io/badge/AppSec-1d4ed8?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a1930?style=flat-square)
+
+Deliberately vulnerable e-commerce application, built as a PoC lab for web exploitation training.
 
 </td>
 <td width="50%" valign="top">
 
 ### [steganos](https://github.com/yannisduvignau/steganos)
-
-![Python](https://img.shields.io/badge/Python-0a1930?style=flat-square&logoColor=ffffff)
 ![Crypto](https://img.shields.io/badge/Cryptography-1d4ed8?style=flat-square)
+![Python](https://img.shields.io/badge/Python-0a1930?style=flat-square)
 
 Hide and extract secret data inside images using LSB encoding with AES-256 encryption.
 
@@ -102,83 +111,111 @@ Hide and extract secret data inside images using LSB encoding with AES-256 encry
 <tr>
 <td width="50%" valign="top">
 
-### [smtp-tester](https://github.com/yannisduvignau/smtp-tester)
+### [packet-sniffer](https://github.com/yannisduvignau/packet-sniffer)
+![Network](https://img.shields.io/badge/Network-1d4ed8?style=flat-square)
+![Scapy](https://img.shields.io/badge/Scapy-0a1930?style=flat-square)
 
-![Python](https://img.shields.io/badge/Python-0a1930?style=flat-square&logoColor=ffffff)
-![Tooling](https://img.shields.io/badge/Tooling-1d4ed8?style=flat-square)
-
-Console tool to verify SMTP connectivity and configuration — the kind of check that ends up in an audit trail.
+Lightweight network packet sniffer built with Scapy — captures and inspects live traffic.
 
 </td>
 <td width="50%" valign="top">
 
-### [s3check](https://github.com/yannisduvignau/s3check)
+### [cyber-news-bot](https://github.com/yannisduvignau/cyber-news-bot)
+![Threat intel](https://img.shields.io/badge/Threat_intel-1d4ed8?style=flat-square)
+![Python](https://img.shields.io/badge/Python-0a1930?style=flat-square)
 
-![Python](https://img.shields.io/badge/Python-0a1930?style=flat-square&logoColor=ffffff)
-![Tooling](https://img.shields.io/badge/Tooling-1d4ed8?style=flat-square)
-
-Connectivity and configuration verification for S3-compatible object storage.
+Discord bot monitoring and delivering cybersecurity news from trusted sources — passive threat watch.
 
 </td>
 </tr>
 </table>
 
+<details>
+<summary><b>&nbsp;More security tooling&nbsp;</b></summary>
+
 <br>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0a1930,100:1d4ed8&height=3&section=header)
+| Project | Stack | What it does |
+|---|---|---|
+| [ssh-bruteforce](https://github.com/yannisduvignau/ssh-bruteforce) | `Python` | SSH brute-force / credential stuffing — educational & authorized testing |
+| [web-bruteforce](https://github.com/yannisduvignau/web-bruteforce) | `Python` | Web login brute-force for authorized penetration testing |
+| [file-encryption-tool](https://github.com/yannisduvignau/file-encryption-tool) | `Python` | File encryption/decryption demonstrating symmetric crypto |
+| [smtp-tester](https://github.com/yannisduvignau/smtp-tester) | `Python` | SMTP connectivity and configuration verification |
+| [s3check](https://github.com/yannisduvignau/s3check) | `Python` | Config verification for S3-compatible object storage |
+| [auth-fastapi](https://github.com/yannisduvignau/auth-fastapi) | `FastAPI` | Hands-on authentication & authorization patterns |
 
-## &nbsp;🔧&nbsp; Engineering
+> ⚠️ Offensive tooling is published for **educational purposes and authorized testing only**.
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1930,50:1d4ed8,100:0a1930&height=4&section=header" width="100%" />
+
+## &nbsp;⚙️&nbsp; Technical background
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,ts,java,cpp,c,ruby,php,dart&theme=dark" alt="Languages" />
+
+**Infrastructure & DevOps**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,terraform,linux,postgres,git,githubactions&theme=dark" alt="Infrastructure" />
+
+**Frameworks**
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,angular,react,nextjs,laravel,rails,flutter&theme=dark" alt="Frameworks" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1930,50:1d4ed8,100:0a1930&height=4&section=header" width="100%" />
+
+## &nbsp;🔧&nbsp; Infrastructure & engineering
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### [ansible-shell-setup](https://github.com/yannisduvignau/ansible-shell-setup)
+![Ansible](https://img.shields.io/badge/Ansible-12305c?style=flat-square)
+![IaC](https://img.shields.io/badge/IaC-2563eb?style=flat-square)
 
-![Ansible](https://img.shields.io/badge/Ansible-12305c?style=flat-square&logoColor=ffffff)
-![Shell](https://img.shields.io/badge/Shell-2563eb?style=flat-square)
-
-Idempotent playbook turning a fresh Debian/Ubuntu or macOS machine into a fully equipped dev shell — in under 5 minutes.
+Idempotent playbook turning a fresh Debian/Ubuntu or macOS machine into a fully equipped dev shell — under 5 minutes.
 
 </td>
 <td width="50%" valign="top">
 
-### [ovh-dns-manager](https://github.com/yannisduvignau/ovh-dns-manager)
+### [civo-k8s-cluster](https://github.com/yannisduvignau/civo-k8s-cluster)
+![Terraform](https://img.shields.io/badge/Terraform-12305c?style=flat-square)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-2563eb?style=flat-square)
 
-![Python](https://img.shields.io/badge/Python-12305c?style=flat-square&logoColor=ffffff)
-![CLI](https://img.shields.io/badge/CLI-2563eb?style=flat-square)
-
-Command-line tool to manage OVH DNS zones without touching the web console.
+Spin up opinionated, production-ready Kubernetes clusters on Civo in seconds.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [glance-conf](https://github.com/yannisduvignau/glance-conf)
+### [ovh-dns-manager](https://github.com/yannisduvignau/ovh-dns-manager)
+![Python](https://img.shields.io/badge/Python-12305c?style=flat-square)
+![CLI](https://img.shields.io/badge/CLI-2563eb?style=flat-square)
 
-![Proxmox](https://img.shields.io/badge/Proxmox-12305c?style=flat-square&logoColor=ffffff)
+Command-line tool to manage OVH DNS zones without touching the web console.
+
+</td>
+<td width="50%" valign="top">
+
+### [glance-conf](https://github.com/yannisduvignau/glance-conf)
+![Proxmox](https://img.shields.io/badge/Proxmox-12305c?style=flat-square)
 ![Self-hosting](https://img.shields.io/badge/Self--hosting-2563eb?style=flat-square)
 
 Pre-configured templates and setup scripts to deploy the Glance dashboard on Proxmox.
 
 </td>
-<td width="50%" valign="top">
-
-### [scalping-bot](https://github.com/yannisduvignau/scalping-bot)
-
-![Python](https://img.shields.io/badge/Python-12305c?style=flat-square&logoColor=ffffff)
-![Trading](https://img.shields.io/badge/Trading-2563eb?style=flat-square)
-
-Crypto scalping bot: multi-indicator signal engine, ATR-based risk management, built-in backtester.
-
-</td>
 </tr>
 </table>
 
-<br>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0a1930,100:1d4ed8&height=3&section=header)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1930,50:1d4ed8,100:0a1930&height=4&section=header" width="100%" />
 
 ## &nbsp;📊&nbsp; Activity
 
@@ -188,26 +225,29 @@ Crypto scalping bot: multi-indicator signal engine, ATR-based risk management, b
 
 <br>
 
-<img src="https://ghchart.rshah.org/1d4ed8/yannisduvignau" alt="Contribution chart" width="92%" />
+<img src="https://ghchart.rshah.org/1d4ed8/yannisduvignau" alt="Contribution chart" width="94%" />
 
 <br><br>
 
 ![Repos](https://img.shields.io/badge/public_repos-57-0a1930?style=for-the-badge&labelColor=1d4ed8)
 ![Followers](https://img.shields.io/github/followers/yannisduvignau?style=for-the-badge&label=followers&color=0a1930&labelColor=1d4ed8)
 ![Since](https://img.shields.io/badge/since-2022-0a1930?style=for-the-badge&labelColor=1d4ed8)
+![Views](https://komarev.com/ghpvc/?username=yannisduvignau&style=for-the-badge&color=1d4ed8&label=views)
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1930,50:1d4ed8,100:0a1930&height=4&section=header" width="100%" />
 
 <div align="center">
 
-<sub>Heading toward — risk frameworks, security accreditation, and the gap between a control on paper and a system in production.</sub>
+### 💬 &nbsp;Open to
+
+**Alternance · GRC & accreditation** &nbsp;·&nbsp; **Security discussions** &nbsp;·&nbsp; **CTF teams**
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=yannisduvignau&style=for-the-badge&color=1d4ed8&label=Profile+views" />
+<sub>Heading toward — risk frameworks, security accreditation,<br>and the gap between a control on paper and a system in production.</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,50:12305c,100:0a1930&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,50:12305c,100:0a1930&height=130&section=footer" width="100%" />
