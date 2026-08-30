@@ -15,6 +15,8 @@ Frameworks make more sense when you've built the systems they apply to.
 
 <br>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1d4ed8?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/yannis-duvignau)
+[![Root-Me](https://img.shields.io/badge/Root--Me-12305c?style=for-the-badge&logo=hackaday&logoColor=ffffff)](https://www.root-me.org/naaqu-exe)
 [![GitHub](https://img.shields.io/badge/GitHub-0a1930?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/yannisduvignau)
 [![X](https://img.shields.io/badge/X-0a1930?style=for-the-badge&logo=x&logoColor=ffffff)](https://twitter.com/yannisduvignau)
 
